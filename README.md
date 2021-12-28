@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @htahsingungor
-- 👀 I’m interested in Microsoft Azure, Power Platform, PowerShell and Python to use as an IT System Administrator 
+- 👀 I’m interested in Microsoft Azure, Power Platform, PowerShell and Python (for IT automation) to use as an IT System Administrator 
 - 🌱 I’m currently learning PowerApps and Azure
 - 💞️ I’m looking to collaborate on Powershell and Python
 
