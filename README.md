@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @htahsingungor
-- 👀 I’m interested in Microsoft Azure, Infrastructure as Code (Terraform, Ansible), Power Platform, PowerShell and Python (for IT automation) to use as an IT System Administrator 
+- 👀 I’m interested in Microsoft Azure, Infrastructure as Code (Terraform, Ansible), Power Platform, PowerShell and Python (for IT automation) to use as an Cloud & System Engineer 
 - 🌱 I’m looking forward to collaborate on Powershell and Python
 
 <!---
